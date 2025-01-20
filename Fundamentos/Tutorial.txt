@@ -1,18 +1,36 @@
-Java Script:
+JavaScript
+A linguagem JavaScript é case sensitive (distingue entre letras maiúsculas e minúsculas).
+O uso de ; (ponto e vírgula) é opcional, mas recomendável em projetos mais complexos para evitar ambiguidades.
+Você pode usar aspas duplas (") ou simples (') para strings, mas não é permitido misturar, como em "texto'.
+Dica: Use aspas duplas para textos e aspas simples para importações.
 
-A lnguagem Js é case sentive (faz diferença entre letras maiusculas e minúsculas).
-No Js o ";" é opcional.
-você pode usar o "" ou '' porém, não é permitido misturae "', '".
-Dicas: usar "textos" e 'importações'.
-Variaveis na linguagem JS são dinámicamente tipadas.
--String
--Number
--boolean
--Function
--Object
+Tipos de Variáveis
+String: Armazena caracteres, letras ou números em formato de texto.
+Number: Representa números.
+Boolean: Armazena valores lógicos, como true ou false.
+Function: Representa blocos de código executáveis.
+Object: Estrutura para armazenar conjuntos de valores.
 
-Node - Plataforme que permite executar o js fora do navegador de internet.
+Declaração de Variáveis
+Para criar uma constante, use const.
+Para criar uma variável, use let.
+Evite var, pois é obsoleto e inseguro (permite redeclaração da variável).
 
-Comandos Node 
-node -v (versão do node).
-node arquivo.js (executar o aquivo Java Script).
+Concatenação de Strings
+A concatenação é a união de texto com variáveis.
+Evite usar o operador de soma (+) em JavaScript, pois a tipagem dinâmica pode causar erros.
+Use template literals (crases: ``) como forma moderna e segura:
+javascript
+        console.log(`Texto com variável: ${variavel}`)
+Podemos executar codigo JS no HTML de 2 formas:
+1) Diretamente usando a tag <script></script>.
+2) Criando um documento JS e linkando com o html usando a tag <script src="script.js"></script>.
+
+
+Node.js
+Node.js é uma plataforma que permite executar JavaScript fora do navegador de internet.
+
+
+Comandos básicos do Node.js
+node -v: Mostra a versão do Node.js instalada.
+node arquivo.js: Executa o arquivo JavaScript.
