@@ -17,14 +17,40 @@ Usar um framework economiza tempo, evita erros e garante boas práticas. Assim c
 
 
 
-## Acessar a documentação do framework
+## Como acessar a documentação do framework
  - Criar links para o css e js, conforme orientações da documentação.
- - Criar inicialmente uma classe. 
-```
-    div.container
+ - Criar inicialmente uma classe sendo obrigatorio para . 
 
-<div class="container">
-    
+ - Cada framework tem sua própria documentação oficial, onde você encontra guias, tutoriais e exemplos.
+
+
+
+## Exemplo de uso do Bootstrap
+
+- Bootstrap: https://getbootstrap.com/
+
+- Para incluir o Bootstrap em seu projeto, basta adicionar os links do CSS e JS no código:
+
+```
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo Bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Minha página com Bootstrap</h1>
+        <p>Esta é uma página responsiva usando Bootstrap.</p>
     </div>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
 ```
+
+#### Conclusão
+
+Os **frameworks** são essenciais para tornar o desenvolvimento mais rápido, organizado e seguro. Ao utilizar um, você aproveita soluções prontas e testadas, permitindo focar no que realmente importa: a lógica e as funcionalidades do seu projeto. Seja para front-end, back-end ou mobile, há sempre um framework adequado para cada necessidade!
