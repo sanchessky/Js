@@ -1,3 +1,12 @@
+Autor: Thiago Sanches<br>
+Instagram: https://www.instagram.com/espetacular_sanches<br>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
+Github: https://github.com/sanchessky<br>
+Data de criação: 03/02/2025<br>
+
+
+
+
 # Framework
 
 Um **framework** é um conjunto de ferramentas, bibliotecas e regras que facilita o desenvolvimento de software, fornecendo uma estrutura pronta para programar. Ele define o "esqueleto" do projeto, no qual você preenche com código seguindo padrões já estabelecidos. Isso economiza tempo, evita a repetição de código e garante boas práticas.

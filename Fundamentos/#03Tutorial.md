@@ -1,3 +1,10 @@
+Autor: Thiago Sanches<br>
+Instagram: https://www.instagram.com/espetacular_sanches<br>
+LinkedIn Thiago Sanches: https://www.linkedin.com/in/thiagosanches07/<br>
+Github: https://github.com/sanchessky<br>
+Data de criação: 03/02/2025<br>
+
+
 # Estudo de Operadores em JavaScript
 
 ## Operadores Aritméticos
