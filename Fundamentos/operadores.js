@@ -29,9 +29,6 @@ console.log(">= | manor ou igual a ")
 console.log("<= | menor ou igual a ")
 console.log("=== | identico a ")
 console.log("!== | não identico a ")
-con
-
-
-
+c
 
 
